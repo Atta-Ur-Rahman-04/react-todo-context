@@ -2,6 +2,7 @@
 
 A simple and clean Todo application built with **React** and **Context API** for state management. Todos are persisted in the browser using **localStorage**, so your tasks stay saved even after refreshing or closing the page.
 
+
 ## Features
 
 - Add new todos
