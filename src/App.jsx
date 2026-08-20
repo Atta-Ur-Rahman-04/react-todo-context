@@ -4,7 +4,7 @@ import TodoForm from "./components/TodoForm";
 import TodoItem from "./components/TodoItem";
 
 const App = () => {
-  // the todos is all the todos not the single todo
+  // the todos is all the todos not the single todo 
   const [todos, setTodos] = useState([]);
 
   // * To give the functionlity to a todo we have to create a method with the same name of import methods like this and we will pass also the values that we pass in the context
