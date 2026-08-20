@@ -1,5 +1,5 @@
 import { createContext, useContext } from "react";
-// context
+// context.
 export const TodoContext = createContext({
   // todos array and inside array every object is an indiviual todo/task and we just add one todo cause to remember the format
 
