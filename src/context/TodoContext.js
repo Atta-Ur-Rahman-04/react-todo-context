@@ -3,7 +3,7 @@ import { createContext, useContext } from "react";
 export const TodoContext = createContext({
   // todos array and inside array every object is an indiviual todo/task and we just add one todo cause to remember the format
 
-  // ---> the given is properites
+  // ----> the given is properites
   todos: [
     {
       id: 1,
